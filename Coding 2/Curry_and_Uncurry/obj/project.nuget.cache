@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TZTiG7h5xJ5DrwFhAHEBNADiO9V33M65RCZB6jVPf1YEvWR9gKRtAAXUKwl3/sQGZwZm3IPhaVgcj46V+jZjPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josh\\Source\\Repos\\effort-1-ZeTraveler\\Coding 2\\Curry_and_Uncurry\\Curry_and_Uncurry.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
